@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/texture/Player Start.fire",orientation:"",jsList:[],bundleVers:{internal:"01588",main:"c5790"}};
